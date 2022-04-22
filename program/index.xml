@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop Program on Measuring the Effective Performance of High-Performance Computer Systems</title>
+    <link>https://mep-hpc-workshop.github.io/program/</link>
+    <description>Recent content in Workshop Program on Measuring the Effective Performance of High-Performance Computer Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mep-hpc-workshop.github.io/program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Driving scientific AI performance on HPC systems with MLPerf benchmarks</title>
+      <link>https://mep-hpc-workshop.github.io/program/invited1/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/program/invited1/</guid>
+      <description>Abstract  AI methods are powerful tools that promise to dramatically change the way we do science on high performance computational resources. Adoption of these techniques is growing across many domains, with important use-cases including analysis of experimental data, acceleration of expensive simulations, and the control or design of experiments. Meanwhile, the computational costs, particularly in the area of training deep neural network models, are growing dramatically as we adopt increasingly large and complex models, tasks, and datasets.</description>
+    </item>
+    
+    <item>
+      <title>Working with Proxy-Applications: Interesting Findings, Lessons Learned, and Future Directions</title>
+      <link>https://mep-hpc-workshop.github.io/program/invited2/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/program/invited2/</guid>
+      <description>Abstract  A considerable amount of research and engineering went into designing proxy applications, which represent common high-performance computing workloads, to co-design and evaluate the current generation of supercomputers, e.g., RIKEN&amp;#39;s Supercomputer Fugaku, ANL&amp;#39;s Aurora, and ORNL&amp;#39;s Frontier. These scaled-down versions of important scientific applications helped researchers around the world to identify bottlenecks, performance characteristics, and fine-tune architectures for their needs. We present some of our findings which will also influence the next generation of HPC systems.</description>
+    </item>
+    
+    <item>
+      <title>Lightweight Requirements Engineering for Exascale Co-design</title>
+      <link>https://mep-hpc-workshop.github.io/program/invited3/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/program/invited3/</guid>
+      <description>Abstract  Given the tremendous cost of an exascale system, its architecture must match the requirements of the applications it is supposed to run as precisely as possible. Conversely, applications must be designed such that building an appropriate system becomes feasible, motivating the idea of co-design. In this process, a fundamental aspect of the application requirements are the rates at which the demands for different resources grow as a code is scaled to a larger machine.</description>
+    </item>
+    
+    <item>
+      <title>Invited Talk 4</title>
+      <link>https://mep-hpc-workshop.github.io/program/invited4/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/program/invited4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

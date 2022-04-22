@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Measuring the Effective Performance of High-Performance Computer Systems</title>
+    <link>https://mep-hpc-workshop.github.io/</link>
+    <description>Recent content on Measuring the Effective Performance of High-Performance Computer Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mep-hpc-workshop.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Driving scientific AI performance on HPC systems with MLPerf benchmarks</title>
+      <link>https://mep-hpc-workshop.github.io/program/invited1/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/program/invited1/</guid>
+      <description>Abstract  AI methods are powerful tools that promise to dramatically change the way we do science on high performance computational resources. Adoption of these techniques is growing across many domains, with important use-cases including analysis of experimental data, acceleration of expensive simulations, and the control or design of experiments. Meanwhile, the computational costs, particularly in the area of training deep neural network models, are growing dramatically as we adopt increasingly large and complex models, tasks, and datasets.</description>
+    </item>
+    
+    <item>
+      <title>Working with Proxy-Applications: Interesting Findings, Lessons Learned, and Future Directions</title>
+      <link>https://mep-hpc-workshop.github.io/program/invited2/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/program/invited2/</guid>
+      <description>Abstract  A considerable amount of research and engineering went into designing proxy applications, which represent common high-performance computing workloads, to co-design and evaluate the current generation of supercomputers, e.g., RIKEN&amp;#39;s Supercomputer Fugaku, ANL&amp;#39;s Aurora, and ORNL&amp;#39;s Frontier. These scaled-down versions of important scientific applications helped researchers around the world to identify bottlenecks, performance characteristics, and fine-tune architectures for their needs. We present some of our findings which will also influence the next generation of HPC systems.</description>
+    </item>
+    
+    <item>
+      <title>Install Hugo</title>
+      <link>https://mep-hpc-workshop.github.io/docs/install-hugo/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/docs/install-hugo/</guid>
+      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
+Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets. Please make sure you have the Hugo Extended version installed. If you are not using the extended version this theme will not not compile.
+hugo version </description>
+    </item>
+    
+    <item>
+      <title>Lightweight Requirements Engineering for Exascale Co-design</title>
+      <link>https://mep-hpc-workshop.github.io/program/invited3/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/program/invited3/</guid>
+      <description>Abstract  Given the tremendous cost of an exascale system, its architecture must match the requirements of the applications it is supposed to run as precisely as possible. Conversely, applications must be designed such that building an appropriate system becomes feasible, motivating the idea of co-design. In this process, a fundamental aspect of the application requirements are the rates at which the demands for different resources grow as a code is scaled to a larger machine.</description>
+    </item>
+    
+    <item>
+      <title>Install Theme</title>
+      <link>https://mep-hpc-workshop.github.io/docs/install-theme/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/docs/install-theme/</guid>
+      <description>Create a new Hugo site hugo new site mynewsite This will create a fresh Hugo site in the folder mynewsite.
+Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes
+Install with Git cd mynewsite cd themes git clone https://github.com/jugglerx/hugo-whisper-theme.git Install from .zip file You can download the .zip file located here https://github.com/JugglerX/hugo-whisper-theme/archive/master.zip.
+Extract the downloaded .zip inside the themes folder. Rename the extracted folder from hugo-whisper-theme-master -&amp;gt; hugo-whisper-theme.</description>
+    </item>
+    
+    <item>
+      <title>Invited Talk 4</title>
+      <link>https://mep-hpc-workshop.github.io/program/invited4/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/program/invited4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://mep-hpc-workshop.github.io/docs/configure/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/docs/configure/</guid>
+      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Specimen</title>
+      <link>https://mep-hpc-workshop.github.io/docs/specimen/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/docs/specimen/</guid>
+      <description>Markdown Test Page  Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements   Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat commodo id sunt. Nostrud enim ad commodo incididunt cupidatat in ullamco ullamco Lorem cupidatat velit enim et Lorem.
+Heading two Aute officia nulla deserunt do deserunt cillum velit magna.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Whisper</title>
+      <link>https://mep-hpc-workshop.github.io/docs/example/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://mep-hpc-workshop.github.io/docs/example/</guid>
+      <description>&lt;p&gt;Whisper is a minimal documentation theme built for Hugo. The design &amp;amp; functionality is intentionally minimal.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
